@@ -1,0 +1,90 @@
+{
+    "name": "BBC News",
+    "description": "Visit BBC News for up-to-the-minute news, breaking news, video, audio and feature stories. BBC News provides trusted World and UK news as well as local and regional perspectives. Also entertainment, business, science, technology and health news.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/BBC-Logo-drsign-Evolution-Story-marketing-facts.jpg",
+    "tags": [
+        "have api",
+        "have swagger",
+        "profile",
+        "tech news"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bbc-news\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "BBC News",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/BBC-Logo-drsign-Evolution-Story-marketing-facts.jpg",
+            "humanURL": "http:\/\/www.bbc.com\/news",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/bbc-news.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bbc-news-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.bbci.co.uk\/news\/technology\/rss.xml?edition=uk"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.bbci.co.uk\/news\/technology\/rss.xml?edition=us"
+        },
+        {
+            "type": "News",
+            "url": "https:\/\/www.bbc.com\/news"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/20071-2019-09-04-00-47-30.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/20071-2019-09-04-00-47-39.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/20071-2019-09-04-00-47-48.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/20071-2019-09-04-00-47-57.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/20071-2019-09-04-00-48-06.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/20071-2019-09-04-00-48-24.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/20071-2019-09-04-00-48-38.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/20071-2019-09-03-17-40-01.json"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/BBCWorld"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.bbc.com\/news"
+        }
+    ]
+}
